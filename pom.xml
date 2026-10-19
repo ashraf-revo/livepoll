@@ -41,7 +41,7 @@
         <dependency>
             <groupId>org.bytedeco</groupId>
             <artifactId>javacv</artifactId>
-            <version>1.4.2</version>
+            <version>1.5.14</version>
             <exclusions>
                 <exclusion>
                     <groupId>*</groupId>
